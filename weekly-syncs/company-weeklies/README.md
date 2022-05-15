@@ -1,4 +1,4 @@
-# Company Weeklies
+# 基本代數
 
 The company weekly runs – surprisingly – every week, and is timeboxed to 45 minutes.
 
