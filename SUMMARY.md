@@ -2,18 +2,26 @@
 
 * [Guide](README.md)
 
-## Daily Syncs
+## Basic
 
-* [Design Standups](daily-syncs/design-standups/README.md)
-  * [September 2021](daily-syncs/design-standups/september-2021/README.md)
-    * [Week 1 (6 - 10 Sept)](daily-syncs/design-standups/september-2021/week-1-6-10-sept.md)
+* [Python](basic/python/README.md)
+  * [安裝](basic/python/an-zhuang.md)
+  * [好用模組](basic/python/hao-yong-mo-zu.md)
+  * [基本語法](basic/python/ji-ben-yu-fa.md)
 
-## Weekly Syncs
+## Junior
 
-* [Company Weeklies](weekly-syncs/company-weeklies/README.md)
-  * [1st September 2021](weekly-syncs/company-weeklies/1st-september-2021.md)
+* [基本代數](junior/ji-ben-dai-shu/README.md)
+  * [一元一次方程式](junior/ji-ben-dai-shu/yi-yuan-yi-ci-fang-cheng-shi/README.md)
+    * [基本概念](junior/ji-ben-dai-shu/yi-yuan-yi-ci-fang-cheng-shi/ji-ben-gai-nian.md)
+    * [例題](junior/ji-ben-dai-shu/yi-yuan-yi-ci-fang-cheng-shi/li-ti.md)
+    * [程式碼](junior/ji-ben-dai-shu/yi-yuan-yi-ci-fang-cheng-shi/cheng-shi-ma.md)
 
-## Other Regulars
+## Senior
 
-* [Company Weeklies](other-regulars/company-weeklies/README.md)
-  * [September 14th 2021](other-regulars/company-weeklies/september-14th-2021.md)
+* [?](senior/undefined/README.md)
+  * [!](senior/undefined/undefined.md)
+
+## Advanced topics
+
+* [?](advanced-topics/undefined.md)
