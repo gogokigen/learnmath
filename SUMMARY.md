@@ -22,6 +22,7 @@
 
 ## Senior
 
+* [學習指南](senior/xue-xi-zhi-nan.md)
 * [用方程式描繪圖形](senior/yong-fang-cheng-shi-miao-hui-tu-xing.md)
 * [向量](senior/xiang-liang.md)
 * [矩陣](senior/ju-zhen.md)
