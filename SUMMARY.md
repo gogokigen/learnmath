@@ -14,11 +14,13 @@
 
 ## Junior
 
+* [學習指南](junior/xue-xi-zhi-nan.md)
 * [基本代數](weekly-syncs/company-weeklies/README.md)
   * [一元一次方程式](weekly-syncs/company-weeklies/1st-september-2021.md)
     * [基本概念](junior/ji-ben-dai-shu/yi-yuan-yi-ci-fang-cheng-shi/ji-ben-gai-nian.md)
     * [例題](junior/ji-ben-dai-shu/yi-yuan-yi-ci-fang-cheng-shi/li-ti.md)
     * [程式碼](junior/ji-ben-dai-shu/yi-yuan-yi-ci-fang-cheng-shi/cheng-shi-ma.md)
+* [顯示多點趨勢的直線](junior/xian-shi-duo-dian-qu-shi-de-zhi-xian.md)
 
 ## Senior
 
