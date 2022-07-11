@@ -41,3 +41,5 @@
 
 * [用Python寫出國中數學解題程式](can-kao-shu/yong-python-xie-chu-guo-zhong-shu-xue-jie-ti-cheng-shi.md)
 * [用Python寫出高中數學解題程式](can-kao-shu/yong-python-xie-chu-gao-zhong-shu-xue-jie-ti-cheng-shi.md)
+* [Math Adventures with Python](can-kao-shu/math-adventures-with-python.md)
+* [All the Mathematics You Missed](can-kao-shu/all-the-mathematics-you-missed.md)
