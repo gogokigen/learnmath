@@ -2,7 +2,8 @@
 
 ### 中學數學
 
-基本代數：
+* 基本代數
+* [顯示多點趨勢的直線](junior/xian-shi-duo-dian-qu-shi-de-zhi-xian.md)
 
 ### 高中數學
 
