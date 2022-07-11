@@ -87,3 +87,7 @@ plt.show()
 
 ![](<../.gitbook/assets/圖片 (5).png>)
 
+#### Homework
+
+在這張圖中，你觀察到什麼？
+
