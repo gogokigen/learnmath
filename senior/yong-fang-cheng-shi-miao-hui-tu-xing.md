@@ -17,18 +17,18 @@ import matplotlib.pyplot as plt
 **繪圖**
 
 ```
-// 給定資料
+# 給定資料
 x = [ 1, 2, 3, 4, 5, 6, 7]
 y = [ 50, 44.7, 51.2, 66, 49.1, 47, 50.5]
 
-// 描繪折線
+# 描繪折線
 plt.plot(x,y)
 ```
 
 ![](../.gitbook/assets/圖片.png)
 
 ```
-// 描繪格線
+# 描繪格線
 plt.grid(color='0.8')
 ```
 
