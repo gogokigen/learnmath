@@ -109,11 +109,11 @@ plt.show()
 dx = [28, 26, 28, 27, 27, 20, 26, 22, 23, 19, 26, 23, 25, 21, 20, 18, 24, 19, 24, 25]           # 気温
 dy = [111, 97, 102, 105, 108, 74, 116, 92, 112, 88, 116, 101, 93, 74, 87, 71, 94, 67, 105, 99]  # 販売数
 
-# 初始值
+# 假設直線 y = 0
 a = 0.0  # 斜率
 b = 0.0  # x軸距
 
-# 差の二乗和
+# 差的平方和
 min_res = 0.0
 for i in range(20):
     y = a * dx[i] + b
@@ -128,11 +128,48 @@ print(min_res)
 
 ### 利用亂數
 
-//
+#### 學習使用亂數生成 7個數字
+
+```
+import random
+for i in range(7):
+    print(random.random())
+```
+
+![](<../.gitbook/assets/圖片 (3).png>)
+
+\-0.5 \~ 0.5 間的亂數\
+<img src="../.gitbook/assets/圖片 (6).png" alt="" data-size="original">
 
 ### 利用亂數找出迴歸直線
 
+#### 畫流程圖分析
+
 //
+
+#### 使用亂數，找出 a, b
+
+```
+import random
+
+for i in range(500000):
+    # 微小的變動量
+    wa = (random.random() - 0.5) * 0.001
+    wb = (random.random() - 0.5) * 0.001
+    
+    # 差的平方和, 目標是要讓誤差最小
+    res = 0
+    for j in range(20):
+        y = (a + wa) * dx[j] + (b + wb)
+        res += (dy[j] - y)**2
+        
+    # 更新值
+    if res < min_res:
+        min_res = res  # 誤差res 比之前小的話, 就更新
+        a = a + wa     # 新的斜率
+        b = b + wb     # 新的距離
+print(a, b, min_res)
+```
 
 ### 更有效率的找出迴歸直線？
 

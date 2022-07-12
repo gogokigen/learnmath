@@ -32,7 +32,7 @@ plt.plot(x,y)
 plt.grid(color='0.8')
 ```
 
-![](<../.gitbook/assets/圖片 (3).png>)
+![](<../.gitbook/assets/圖片 (3) (1).png>)
 
 ## 數學
 
