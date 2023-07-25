@@ -4,7 +4,7 @@ description: 文系プログラマーのためのPythonで学び直す高校数�
 
 # 用Python寫出高中數學解題程式
 
-![](<../.gitbook/assets/圖片 (2) (1).png>)
+![](<../.gitbook/assets/圖片 (6).png>)
 
 文科生也能懂的Python程式設計：用Python寫出高中數學解題程式
 

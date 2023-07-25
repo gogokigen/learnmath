@@ -25,14 +25,14 @@ y = [ 50, 44.7, 51.2, 66, 49.1, 47, 50.5]
 plt.plot(x,y)
 ```
 
-![](../.gitbook/assets/圖片.png)
+![](<../.gitbook/assets/圖片 (5).png>)
 
 ```
 # 描繪格線
 plt.grid(color='0.8')
 ```
 
-![](<../.gitbook/assets/圖片 (3) (1).png>)
+![](<../.gitbook/assets/圖片 (10).png>)
 
 ## 數學
 
@@ -64,7 +64,7 @@ plt.grid(color='0.8')
 plt.show()
 ```
 
-![](<../.gitbook/assets/圖片 (1).png>)
+![](../.gitbook/assets/圖片.png)
 
 ### 直線的方程式
 

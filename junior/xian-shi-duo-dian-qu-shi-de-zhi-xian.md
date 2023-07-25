@@ -54,7 +54,7 @@ print(dx)
 print(dy)
 ```
 
-![](<../.gitbook/assets/圖片 (4).png>)
+![](<../.gitbook/assets/圖片 (1).png>)
 
 #### 畫圖
 
@@ -85,7 +85,7 @@ plt.scatter(dx, dy)
 plt.show()
 ```
 
-![](<../.gitbook/assets/圖片 (5).png>)
+![](<../.gitbook/assets/圖片 (4).png>)
 
 #### Homework
 
@@ -136,10 +136,14 @@ for i in range(7):
     print(random.random())
 ```
 
-![](<../.gitbook/assets/圖片 (3).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/圖片 (7).png" alt="">
+
+</div>
 
 \-0.5 \~ 0.5 間的亂數\
-<img src="../.gitbook/assets/圖片 (6).png" alt="" data-size="original">
+<img src="../.gitbook/assets/圖片 (2).png" alt="" data-size="original">
 
 ### 利用亂數找出迴歸直線
 
